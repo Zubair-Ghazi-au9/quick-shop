@@ -1,4 +1,4 @@
-# quick-stop
+# Quick-Shop
 E-Commerce web app
 
 > eCommerce platform built with the MERN stack & Redux.
